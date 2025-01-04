@@ -1,0 +1,13 @@
+locale: en
+dictionaryFile: en-utf8.csv
+layout:
+  - [SPECIAL] # 0
+  - [PUNCTUATION] # 1
+  - [e, m, g] # 2
+  - [n, l, k] # 3
+  - [t, f, y] # 4
+  - [a, w, p] # 5
+  - [s, d, j, z] # 6
+  - [o, u, b] # 7
+  - [i, c, v] # 8
+  - [h, r, x, q] # 9
